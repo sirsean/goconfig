@@ -1,6 +1,6 @@
 # goconfig
 
-This is a simple library that provides a wrapper around [gcfg]() that gives you
+This is a simple library that provides a wrapper around [gcfg](https://code.google.com/p/gcfg/) that gives you
 easy access to your configuration throughout your application, _and_ provides
 facilities either for a default config file or a file path that you pass in when
 you run your application.
